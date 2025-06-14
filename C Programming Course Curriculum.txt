@@ -1,0 +1,28 @@
+C Programming Course Curriculum:
+Part 1- C Programming Basic
+1. What is Structured Programming Language?
+2. Features and Use of C
+3. Compilation Process
+4. Preprocessor
+5. Environment Setup and Write First Program
+6. Input and Output
+7. Variable, Keyword, Identifier
+8. Data Types
+9. Operators
+
+Part 2 - Problem Solving, Algorithm, Debugging
+1. Array - (one dimensional, Two dimension)
+2. Conditions and Control Flow - (if, if-else, switch)
+3. Loops - (for, while, do-while)
+4. Functions (declaration, arguments and parameters, call by value, call by reference)
+
+Part 3 - Memory management, File Handling etc.
+1. Pointer
+2. Memory Allocation
+3. String Manipulation
+4. File Handling
+5. Structure, Union
+6. Standard C Libraries
+7. Constant
+
+Part 4 - Final Project
